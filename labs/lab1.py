@@ -10,7 +10,7 @@ def task1():
     b=math.log(abs(z-1),3)+z**(1/4)+(abs(y))**(1/4)
     print("a = {0:.4f}".format(a))
     print("b = {0:.4f}".format(b))
-task1()
+
 def task2():
     x=float(input('Введите переменную x:'))
     a=-5
